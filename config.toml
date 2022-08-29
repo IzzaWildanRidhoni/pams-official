@@ -1,4 +1,4 @@
-title = "Corps Dakwah Masjid Syuhada"
+title = "Pendidikan Anak  Masjid Syuhada"
 baseurl = "https://cdmssyuhada.or.id/"
 
 # Agar front-matter pakai format YAML
@@ -13,7 +13,7 @@ themesDir = "themes"
 theme = "cdmstheme"
 
 # Shortname disqus, silahkan sesuaikan
-DisqusShortname = "Cdms Syuhada"
+DisqusShortname = "Pams Syuhada"
 
 # Untuk Google Analytic, silahkan sesuikan
 googleAnalytics = "UA-80517197-1" 
